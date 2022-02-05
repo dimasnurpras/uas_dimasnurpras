@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('localhost', 'root', '', 'unegodb');
+$conn = mysqli_connect('sql201.epizy.com', 'epiz_30994630', 'lwyM4idOu5XL', 'epiz_30994630_unegodb');
 //pemanggilan tabel
 function query($query)
 {
