@@ -125,7 +125,7 @@ if (isset($_POST['tambah'])) {
       <div class="row">
         <div class="col-lg-12 col-xl-12">
           <div class="text-container">
-            <h3> <i class="fas fa-users"></i> Input Data Calon Mahasiswa </h3>
+            <h3> <i class="fas fa-users"></i> Input Data Barang </h3>
             <hr>
 
             <form method="POST" action="">
