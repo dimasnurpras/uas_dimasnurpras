@@ -85,6 +85,7 @@ if (isset($_POST['tambah'])) {
 
             </ul>
           </li>
+        
         </ul>
         <span class="nav-item social-icons">
           <span class="fa-stack">

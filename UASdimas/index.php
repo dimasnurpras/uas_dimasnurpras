@@ -77,9 +77,9 @@ if (isset($_POST['cari'])) {
               <li>
                 <div class="dropdown-divider"></div>
               </li>
-
             </ul>
           </li>
+        
         </ul>
         <span class="nav-item social-icons">
           <span class="fa-stack">

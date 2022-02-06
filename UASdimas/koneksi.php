@@ -7,3 +7,4 @@ $db   = "epiz_30994630_unegodb";
 
 $conn   = mysqli_connect($host, $user, $pass, $db);
 $result = mysqli_query($conn, "SELECT * FROM barang");
+?>

@@ -85,6 +85,7 @@ $camaba = query("SELECT * FROM barang WHERE id=$id");
 
             </ul>
           </li>
+        
         </ul>
         <span class="nav-item social-icons">
           <span class="fa-stack">
@@ -125,7 +126,7 @@ $camaba = query("SELECT * FROM barang WHERE id=$id");
       <div class="row">
         <div class="col-lg-12 col-xl-12">
           <div class="text-container">
-            <h3> <i class="fas fa-users"></i> Detail Data Calon Mahasiswa </h3>
+            <h3> <i class="fas fa-users"></i> Detail Barang </h3>
             <hr>
             <ul class="list-group">
               <li class="list-group-item active"> <?= $camaba['nama']; ?> </li>

@@ -80,6 +80,7 @@ if (isset($_POST['cari'])) {
 
             </ul>
           </li>
+        
         </ul>
         <span class="nav-item social-icons">
           <span class="fa-stack">

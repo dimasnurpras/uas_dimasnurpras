@@ -28,6 +28,10 @@ function tambah($data)
   $stok = htmlspecialchars($data['stok']);
   $foto = htmlspecialchars($data['foto']);
 
+
+
+
+
   $query = "INSERT INTO barang VALUES (null,'$nama','$harga','$stok','$foto');";
   mysqli_query($conn, $query);
   echo mysqli_error($conn);

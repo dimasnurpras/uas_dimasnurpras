@@ -92,6 +92,7 @@ if (isset($_POST['edit'])) {
 
             </ul>
           </li>
+    
         </ul>
         <span class="nav-item social-icons">
           <span class="fa-stack">
